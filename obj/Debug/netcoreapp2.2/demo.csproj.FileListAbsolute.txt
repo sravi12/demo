@@ -1,0 +1,14 @@
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.dll
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.pdb
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.dll
+C:\Ravi\Learning\Azure\Pluralsight\WebAndMobileServices\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.pdb
