@@ -27,7 +27,7 @@ namespace demo
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World from Azure 1!");
+                await context.Response.WriteAsync("Hello World from Azure 2!");
             });
         }
     }
